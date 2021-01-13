@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on d4rkn1gh7 | Tech Blog</title>
+    <link>https://d4rkn1gh7.github.io/tags/</link>
+    <description>Recent content in Tags on d4rkn1gh7 | Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Jan 2021 21:09:00 +0530</lastBuildDate><atom:link href="https://d4rkn1gh7.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ctf</title>
+      <link>https://d4rkn1gh7.github.io/tags/ctf/</link>
+      <pubDate>Wed, 13 Jan 2021 21:09:00 +0530</pubDate>
+      
+      <guid>https://d4rkn1gh7.github.io/tags/ctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>easy</title>
+      <link>https://d4rkn1gh7.github.io/tags/easy/</link>
+      <pubDate>Wed, 13 Jan 2021 21:09:00 +0530</pubDate>
+      
+      <guid>https://d4rkn1gh7.github.io/tags/easy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tryhackme</title>
+      <link>https://d4rkn1gh7.github.io/tags/tryhackme/</link>
+      <pubDate>Wed, 13 Jan 2021 21:09:00 +0530</pubDate>
+      
+      <guid>https://d4rkn1gh7.github.io/tags/tryhackme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackthebox</title>
+      <link>https://d4rkn1gh7.github.io/tags/hackthebox/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0530</pubDate>
+      
+      <guid>https://d4rkn1gh7.github.io/tags/hackthebox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://d4rkn1gh7.github.io/tags/linux/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0530</pubDate>
+      
+      <guid>https://d4rkn1gh7.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medium_box</title>
+      <link>https://d4rkn1gh7.github.io/tags/medium_box/</link>
+      <pubDate>Tue, 12 Jan 2021 16:48:02 +0530</pubDate>
+      
+      <guid>https://d4rkn1gh7.github.io/tags/medium_box/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>easy_box</title>
+      <link>https://d4rkn1gh7.github.io/tags/easy_box/</link>
+      <pubDate>Tue, 12 Jan 2021 16:08:20 +0530</pubDate>
+      
+      <guid>https://d4rkn1gh7.github.io/tags/easy_box/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

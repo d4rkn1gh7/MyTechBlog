@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on d4rkn1gh7 | Tech Blog</title>
+    <link>https://d4rkn1gh7.github.io/tags/linux/</link>
+    <description>Recent content in linux on d4rkn1gh7 | Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0530</lastBuildDate><atom:link href="https://d4rkn1gh7.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Linux Commands</title>
+      <link>https://d4rkn1gh7.github.io/posts/2021/01/basic-linux-commands/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0530</pubDate>
+      
+      <guid>https://d4rkn1gh7.github.io/posts/2021/01/basic-linux-commands/</guid>
+      <description>Sample File </description>
+    </item>
+    
+  </channel>
+</rss>
