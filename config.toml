@@ -1,5 +1,5 @@
 baseURL = "https://d4rkn1gh7.github.io"
-title = "d4rkn1gh7 - Tech Blog"
+title = "d4rkn1gh7 | Tech Blog"
 
 theme = "hugo-coder"
 
@@ -15,9 +15,9 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "d4rkn1gh7"
-    description = "d4rkn1gh7's techinical blog"
-    keywords = "blog,ctf,hacking"
+    author = "d4rkn1gh7 | Balaji Anandhan"
+    description = "d4rkn1gh7 | Tech Blog"
+    keywords = "blog,ctf,hacking,coding"
     info = "root@box:~# cat root.txt"
     avatarURL = "images/avatar.png"
     #gravatar = "balaji006@protonmail.com"
@@ -26,7 +26,7 @@ disqusShortname = "yourdiscussshortname"
     dateFormat = "January 2, 2006"
 
     hideFooter = false
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
     since = 2019
 
@@ -59,6 +59,8 @@ disqusShortname = "yourdiscussshortname"
 
     # Custom JS
     customJS = []
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 [params.fathomAnalytics]
@@ -91,8 +93,23 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-github"
     weight = 1
     url = "https://github.com/d4rkn1gh7/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fa fa-instagram"
+    weight = 1
+    url = "https://www.instagram.com/_balaji_6120/"
 
-
+[[params.social]]
+    name = "E-Mail"
+    icon = "fa fa-envelope"
+    weight = 1
+    url = "mailto:latanandb2@gmail.com"
+[[params.social]]
+    name = "Linux-OS"
+    icon = "fa fa-linux"
+    weight = 1
+    url = "https://www.kali.org/"
+    
 
 [languages]
     [languages.en]
@@ -101,24 +118,34 @@ disqusShortname = "yourdiscussshortname"
         [languages.en.menu]
 
             [[languages.en.menu.main]]
-            name = "About"
+            name = "Posts"
             weight = 1
-            url = "about/"
-
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 2
             url = "posts/"
 
             [[languages.en.menu.main]]
-            name = "CTF"
-            weight = 3
-            url = "categories/"
+            name = "TryHackMe"
+            weight = 2
+            url = "categories/tryhackme"
 
             [[languages.en.menu.main]]
-            name = "Coding"
+            name = "HackTheBox"
+            weight = 3
+            url = "categories/hackthebox"
+            
+            [[languages.en.menu.main]]
+            name = "Coding | Linux"
+            weight = 4
+            url = "categories/codinglinux"
+            
+            [[languages.en.menu.main]]
+            name = "Tags"
+            weight = 4
+            url = "tags/"
+            
+            [[languages.en.menu.main]]
+            name = "About"
             weight = 5
-            url = "content/"
+            url = "about/"
 
 
     
