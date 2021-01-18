@@ -105,7 +105,7 @@ So I saw what is the source code of the page , in there I found an interesting t
 ![](/TryHackMe/Battery/registerphp.png)
 
 
-If you observer the differences between both the source code u can see the maxlength "12" and "14" difference there. 
+If you observe the differences between both the source code u can see the maxlength "12" and "14" difference there. 
 
 
 This is a type of sql vulnerability called [SQL Truncation](https://blog.lucideus.com/2018/03/sql-truncation-attack-2018-lucideus.html) (click the link to give a read)
