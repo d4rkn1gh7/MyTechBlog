@@ -185,7 +185,7 @@ Now we can get id_rsa from **.ssh/** folder.
 and we can ssh in as james .
 
 
-## __Fourth Stage : James to root.
+## __Fourth Stage : James to root.__
 
 
 So now we can privesc to root by doing the following steps.
