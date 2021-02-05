@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2021-02-05T16:44:52+05:30
+date = 2021-02-05
 title = "Madeye's Castle TryHackMe Writeup"
 description = "Madeye's Castle TryHackMe room Writeup"
 slug = ""
