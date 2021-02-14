@@ -11,13 +11,14 @@ slug = "about"
 
 ### I am still learning and I will keep learning.I share my knowledge in this blog.
 
-
- 
-
-
 >Try Harder
 
 >Privacy is a Myth 
+
+
+
+## Certification:
+## __Comptia Pentest+__
 
 
 ### My accounts
