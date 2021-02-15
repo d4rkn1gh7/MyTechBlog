@@ -18,10 +18,11 @@ slug = "about"
 
 
 ## Certification:
-## __Comptia Pentest+__
 
+{{< rawhtml >}}
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="597558bf-5de0-4725-914a-5a49034e9873" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
+{{< /rawhtml >}}
 
 
 ### My accounts
