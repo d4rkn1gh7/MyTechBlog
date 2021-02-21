@@ -35,8 +35,11 @@ GitHub : [d4rkn1gh7](https://github.com/d4rkn1gh7/)
 
 Instagram : [Balaji_6120](https://www.instagram.com/_balaji_6120/)
 
+{{< rawhtml >}}
+ <script src="https://tryhackme.com/badge/100066"></script>
+{{< /rawhtml >}}
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/glitched01.png)
-
-![Hack The Box](http://www.hackthebox.eu/badge/image/325785)
+{{< rawhtml >}}
+<script src="https://www.hackthebox.eu/badge/325785"></script>
+{{< /rawhtml >}}
 
