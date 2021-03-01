@@ -108,6 +108,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-linux"
     weight = 1
     url = "https://www.kali.org/"
+[[params.social]]
+  name = "Linked-In Profile"
+  icon = "fa fa-linkedin"
+  weight = 1
+  url = "https://www.linkedin.com/in/balaji-anandhan-5140901a8"
     
 
 [languages]
@@ -142,7 +147,7 @@ disqusShortname = "yourdiscussshortname"
             url = "tags/"
             
             [[languages.en.menu.main]]
-            name = "About"
+            name = "$whoami"
             weight = 5
             url = "about/"
 
