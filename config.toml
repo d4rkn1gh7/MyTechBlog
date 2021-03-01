@@ -147,7 +147,7 @@ disqusShortname = "yourdiscussshortname"
             url = "tags/"
             
             [[languages.en.menu.main]]
-            name = "$whoami"
+            name = "$ whoami"
             weight = 5
             url = "about/"
 
