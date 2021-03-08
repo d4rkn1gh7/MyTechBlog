@@ -5,25 +5,25 @@ set -e
 
 printf "\033[0;32mPushing source code to MyBlog...\033[0m\n"
 
-echo "deleting public directory"
+echo "[+]Deleting public directory"
 rm -rf public
 
-echo "generating public"
+echo "[+]Generating public"
 
 hugo -v
 
-echo "copying public to blog site"
+echo "[+]Copying public to Blog site"
 cp -rfv public/* ~/d4rkn1gh7.github.io
 
-echo "removed public"
+echo "[*]removed public"
 rm -rf public
 
 git add .
 
-echo "Enter commit message"
-read msg
+#echo "Enter commit message"
+#read msg
 # Build the project.
-git commit -m "$msg" # if using a theme, replace with `hugo -t <YOURTHEME>`
+git commit -m "$1" # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 git push origin main
 
@@ -35,7 +35,7 @@ printf "\033[0;32mUpdating the website...\033[0m\n"
 git add .
 
 # Commit changes.
-git commit -m "$msg"
+git commit -m "$1"
 
 # Push source and build repos.
 git push origin main
